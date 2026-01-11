@@ -164,34 +164,6 @@ Plain text file containing the generated answer.
 }
 ```
 
-## Research Paper
-
-This framework is described in the research paper:
-
-> **Evidence Coverage Evaluator: A Comprehensive Framework for Assessing Grounding Quality in Retrieval-Augmented Generation Systems**
-> 
-> Goutam Adwant, Manjari Srivastav
-> 
-> *Submitted to IEEE Access, 2026*
-
-The paper is available in the `documentation/` folder:
-- `ece_ieee_access.tex` - IEEE Access formatted paper
-- `evidence_coverage_evaluator_paper.tex` - TechRxiv preprint version
-
-## Citation
-
-If you use this framework in your research, please cite:
-
-```bibtex
-@article{adwant2026ece,
-  title={Evidence Coverage Evaluator: A Comprehensive Framework for 
-         Assessing Grounding Quality in Retrieval-Augmented Generation Systems},
-  author={Adwant, Goutam and Srivastav, Manjari},
-  journal={IEEE Access},
-  year={2026}
-}
-```
-
 ## Project Structure
 
 ```
